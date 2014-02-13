@@ -1,0 +1,3 @@
+﻿Pokémon Gold/Silver/Crystal Ticker
+----------------------------------
+This script is based off the current date script. If you didn't play the GameBoy Color games - Pokémon Gold, Silver or Crystal, note that these games are in real-time - Which means certain in game events only happen and certain Pokémon only come out during a certain time of day or a certain day of the week - in actual time. This script is a ticker that notifies people viewing the web page of what events are currently happening right now in their game.
